@@ -125,6 +125,8 @@ public class BankersAlgorithm {
                 System.out.println("");
             }
         }
+        System.out.println("Press any key to close");
+        sc.nextLine();
     }
     
 }
